@@ -1,6 +1,5 @@
-package cs455.scaling.client;
+package proj.scaling.client;
 
-import cs455.scaling.server.*;
 import java.sql.Timestamp;
 import java.util.logging.Level;
 import java.util.logging.Logger;

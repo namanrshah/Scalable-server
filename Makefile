@@ -1,12 +1,12 @@
-all: compile
+all: clean compile
 	@echo -e '[INFO] Done!'
 clean:
 	@echo -e '[INFO] Cleaning Up..'	
-	@-rm -rf bin/cs455/**/**/*.class
+	@-rm -rf bin/proj/**/**/*.class
 
 compile: 
 	@echo -e '[INFO] Compiling the Source..'
 	@mkdir -p bin
-	@javac bin src/cs455/**/**/*.java
+	@javac -d bin src/proj/**/**/*.java
 	
 	

@@ -1,7 +1,7 @@
-package cs455.scaling.client;
+package proj.scaling.client;
 
-import cs455.scaling.client.Client;
-import cs455.scaling.util.Constants;
+import proj.scaling.client.Client;
+import proj.scaling.util.Constants;
 import java.io.IOException;
 import java.math.BigInteger;
 import java.nio.ByteBuffer;

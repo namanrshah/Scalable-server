@@ -1,10 +1,10 @@
-package cs455.scaling.server;
+package proj.scaling.server;
 
-import cs455.scaling.task.ReadTask;
-import cs455.scaling.task.Task;
-import cs455.scaling.task.TaskType;
-import cs455.scaling.task.WriteTask;
-import cs455.scaling.threadpool.ThreadPoolManager;
+import proj.scaling.task.ReadTask;
+import proj.scaling.task.Task;
+import proj.scaling.task.TaskType;
+import proj.scaling.task.WriteTask;
+import proj.scaling.threadpool.ThreadPoolManager;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;

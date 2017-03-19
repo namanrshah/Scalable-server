@@ -1,4 +1,4 @@
-package cs455.scaling.util;
+package proj.scaling.util;
 
 /**
  *

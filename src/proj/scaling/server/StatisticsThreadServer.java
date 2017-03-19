@@ -1,6 +1,6 @@
-package cs455.scaling.server;
+package proj.scaling.server;
 
-import cs455.scaling.threadpool.ThreadPoolManager;
+import proj.scaling.threadpool.ThreadPoolManager;
 import java.sql.Timestamp;
 import java.util.logging.Level;
 import java.util.logging.Logger;

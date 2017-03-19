@@ -1,4 +1,4 @@
-package cs455.scaling.task;
+package proj.scaling.task;
 
 /**
  *

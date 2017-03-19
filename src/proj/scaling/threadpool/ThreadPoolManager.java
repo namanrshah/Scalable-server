@@ -1,9 +1,9 @@
-package cs455.scaling.threadpool;
+package proj.scaling.threadpool;
 
-import cs455.scaling.server.Server;
-import cs455.scaling.task.Task;
-import cs455.scaling.task.TaskType;
-import cs455.scaling.task.WriteTask;
+import proj.scaling.server.Server;
+import proj.scaling.task.Task;
+import proj.scaling.task.TaskType;
+import proj.scaling.task.WriteTask;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.logging.Level;

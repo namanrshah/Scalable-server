@@ -1,11 +1,11 @@
-package cs455.scaling.threadpool;
+package proj.scaling.threadpool;
 
-import cs455.scaling.client.Writer;
-import cs455.scaling.server.Server;
-import cs455.scaling.task.Task;
-import cs455.scaling.task.TaskType;
-import cs455.scaling.task.WriteTask;
-import cs455.scaling.util.Constants;
+import proj.scaling.client.Writer;
+import proj.scaling.server.Server;
+import proj.scaling.task.Task;
+import proj.scaling.task.TaskType;
+import proj.scaling.task.WriteTask;
+import proj.scaling.util.Constants;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
