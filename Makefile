@@ -8,5 +8,3 @@ compile:
 	@echo -e '[INFO] Compiling the Source..'
 	@mkdir -p bin
 	@javac -d bin src/proj/**/**/*.java
-	
-	
