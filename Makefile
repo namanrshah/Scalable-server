@@ -6,7 +6,7 @@ clean:
 
 compile: 
 	@echo -e '[INFO] Compiling the Source..'
-	@mkdir bin
+	@mkdir -p bin
 	@javac bin src/cs455/**/**/*.java
 	
 	
